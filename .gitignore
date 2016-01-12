@@ -1,0 +1,10 @@
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+/.vagrant
+/.ideas
+/bower_components
+Vagrantfile
+install.sh

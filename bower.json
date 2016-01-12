@@ -1,0 +1,26 @@
+{
+  "name": "t",
+  "description": "y",
+  "main": "yes",
+  "authors": [
+    "Mash <MVB2150>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.2.0",
+    "pusher": "~3.0.0"
+  },
+
+  "install" : {
+    "path" :"public/js"
+  }
+}
